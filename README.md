@@ -1,20 +1,44 @@
+<h1 align="center">Hey, I'm Surya 👋</h1>
 
-# Hey, I'm Surya 👋
+<p align="center">
+  <strong>Staff Application Engineer</strong> · Tokyo, Japan 🇯🇵
+</p>
 
-**Staff Application Engineer** based in Tokyo, Japan 🇯🇵
+<p align="center">
+  Backend engineering · AI systems · Developer tools
+</p>
 
-I build backend systems, AI-powered developer tools, and scalable platforms. My work spans software architecture, legacy modernization, and intelligent automation.
+<p align="center">
+  <a href="https://onelayerdeep.page">Personal site</a> ·
+  <a href="https://www.linkedin.com/in/suryaabhinav/">LinkedIn</a>
+</p>
 
-### 🚀 What I'm working on
+---
 
-- **Arbiter** - An AI governance and workflow orchestration platform.
-- **Engineering Intelligence** - A lightweight dashboard bringing GitHub and Jira together for engineering teams.
-- **AI-assisted Modernization** - Building intelligent pipelines to understand, analyze, and modernize legacy codebases.
+### About me
 
-### 🛠️ Tech I work with
+I build backend platforms, AI-powered tools, and software that makes everyday workflows a little simpler. My work spans **system architecture**, **legacy modernization**, and **intelligent automation** — with a focus on making complex systems reliable and easier to operate.
 
-`Python` · `TypeScript` · `Node.js` · `FastAPI` · `React` · `PostgreSQL` · `Kafka` · `Docker` · `Azure`
+Outside work, I enjoy exploring ideas in distributed systems, AI infrastructure, and the occasional photography project.
 
-### 🌐 Connect
+### Currently building
 
-[LinkedIn](https://www.linkedin.com/in/suryaabhinav/) · [GitHub](https://github.com/suryaabhinav)
+- **Arbiter** — A governance-first platform for monitoring and orchestrating AI-driven workflows.
+- **Engineering Intelligence** — A unified GitHub + Jira dashboard that brings pull requests, reviews, and team activity into one view.
+- **AI-assisted modernization** — Pipelines that combine deterministic code analysis with LLM-based workflows to understand and modernize legacy systems.
+
+### Tech I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages & backend** | Python · TypeScript · Node.js · FastAPI |
+| **Data & messaging** | PostgreSQL · Redis · Kafka |
+| **Frontend** | React · Next.js |
+| **Cloud & tooling** | Docker · Azure · GitHub Actions |
+| **AI & ML** | LLM orchestration · Local LLMs · Computer vision |
+
+---
+
+<p align="center">
+  <em>I like building things that solve real problems, even the small everyday ones.</em>
+</p>
